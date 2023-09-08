@@ -1,10 +1,13 @@
 body{
     background: #D2D2C1 url(./Images/fundo.png);
     font: 16px Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 #principal{
     width: 900px;
+    
 }
 
 #menu{
